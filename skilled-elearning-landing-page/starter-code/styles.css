@@ -376,6 +376,7 @@ footer {
         width: 375px;
         height: 320px;
         margin-bottom: 30px;
+        left: 30px;
     }
     .image-hero {
         max-width: 100%;
