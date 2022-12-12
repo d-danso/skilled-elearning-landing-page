@@ -432,9 +432,4 @@ footer {
         width: 140px;
         margin-top: -80px;
     }
-    .clearfix::after {
-        content: "";
-        clear: both;
-        display: table;
-    }
 }
