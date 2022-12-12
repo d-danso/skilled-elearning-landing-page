@@ -326,10 +326,10 @@ footer {
 
 @media only screen and (max-width: 480px) {
     body {
-        max-width: 80vw;
+        max-width: 100vw;
     }
     .heading {
-        width: 375px;
+        width: 100%;
         height: 48px;
     }
     .dark-logo {
@@ -346,7 +346,7 @@ footer {
         margin-top: 16px;
     }
     .container1 {
-        width: 375px;
+        width: 100%;
         height: 300px;
         margin-top: 10px;
         margin-bottom: 50px;
@@ -370,12 +370,14 @@ footer {
         font-size: 1.em;
         line-height: 26px;
         margin-left: 16px;
+        height: 56px;
     }
     .image {
         float: none;
         width: 375px;
         height: 320px;
         margin-bottom: 30px;
+        margin-top: 10px;
         left: 30px;
     }
     .image-hero {
@@ -385,12 +387,14 @@ footer {
         top: 433px;
     }
     .grid-container {
-        width: 379px;
+        width: 100%;
         grid-template-columns: 1fr;
         margin-bottom: 80px;
+        margin-left: 0px;
+        margin-right: 0px;
     }
     .container2 {
-        width: 346.66px;
+        width: 100%;
         height: 120px;
         margin-bottom: 30px;
     }
@@ -403,7 +407,7 @@ footer {
         margin-top: 30px;
     }
     .container3 {
-        width: 346.66px;
+        width: 100%;
         height: 283px;
     }
     .sub-container3 {
@@ -416,7 +420,7 @@ footer {
     footer {
         position: absolute;
         height: 120px;
-        width: 375px;
+        width: 100%;
         margin-top: 805px;
     }
     .logo-light {
