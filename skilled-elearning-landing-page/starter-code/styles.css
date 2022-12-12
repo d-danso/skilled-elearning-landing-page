@@ -326,7 +326,7 @@ footer {
 
 @media only screen and (max-width: 480px) {
     body {
-        max-width: 90vw;
+        max-width: 80vw;
     }
     .heading {
         width: 375px;
@@ -385,7 +385,6 @@ footer {
     }
     .grid-container {
         width: 379px;
-        /* height: 1695px; */
         grid-template-columns: 1fr;
         margin-bottom: 80px;
     }
