@@ -353,11 +353,12 @@ footer {
     }
     h2 {
         width: 343px;
-        height: 101px;
+        height: 111px;
         font-size: 2.5em;
         line-height: 50px;
         margin-left: 8px;
         margin-right: 8px;
+        padding: 2px;
     }
     .container1-text {
         width: 343px;
