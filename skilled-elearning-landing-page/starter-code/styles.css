@@ -376,17 +376,18 @@ footer {
     }
     .image {
         float: none;
-        width: 375px;
+        width: 327px;
         height: 320px;
         margin-bottom: 30px;
         margin-top: 10px;
-        left: 30px;
+        left: 0px;
     }
     .image-hero {
-        max-width: 90%;
+        width: 320px;
         height: 301px;
         left: 24px;
         top: 433px;
+        overflow-x: visible;
     }
     .grid-container {
         width: 90%;
